@@ -36,8 +36,10 @@
   
 <br>
   
-  ## 📧 Contato
+  ## 📞 Contato
  
 <div> 
   <a href="https://www.linkedin.com/in/Kaio-Zaniboni-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a "mailto:kaio.r.zaniboni@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a> 
+  <a "mailto:kaio.r.zaniboni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?l=pt-BR&amp;phone=5511985653074" rel="nofollow">
+  <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>  
