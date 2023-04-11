@@ -4,7 +4,7 @@
 
 🎓 Curso Análise e Desenvolvimento de Sistemas na Faculdade SP TECH School. 
 
-💻 Sou Desenvolvedor Full-stack a pouco mais de 1 ano.
+💻 Sou Desenvolvedor Full-stack a 2 anos.
 
 📖 Estou sempre estudando um pouco sobre as principais stacks que utilizo e colocando-as em algum projeto.
 
