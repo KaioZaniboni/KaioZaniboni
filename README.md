@@ -2,7 +2,7 @@
 
 <br>
 
-🎓 Curso Análise e Desenvolvimento de Sistemas na Faculdade SP TECH School. 
+🎓 Graduado em Análise e Desenvolvimento de Sistemas na Faculdade SP TECH School. 
 
 💻 Sou Desenvolvedor Full-stack a 2 anos.
 
