@@ -4,7 +4,7 @@
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Faculdade SP TECH School. 
 
-💻 Sou Desenvolvedor Full-stack a 2 anos.
+💻 Sou Desenvolvedor Full-stack a 3 anos.
 
 📖 Estou sempre estudando um pouco sobre as principais stacks que utilizo e colocando-as em algum projeto.
 
